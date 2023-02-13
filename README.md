@@ -32,7 +32,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 - 🤔 I'm looking for help with Outstanding Apps ideas.  
   
 
-- 🌱 I’m currently learning Spring Boot and Microservices 💪  
+- 🌱 I’m currently learning Spring Boot and Microservices.  
   
 
 - ❓ Ask me about anything related to Java and related technologies.  
