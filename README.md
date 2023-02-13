@@ -29,7 +29,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🤔 I'm looking for help with Outstanding Apps ideas.  
+- 🤔 I'm looking for help with new Apps ideas.  
   
 
 - 🌱 I’m currently learning Spring Boot and Microservices.  
