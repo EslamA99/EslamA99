@@ -43,7 +43,9 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 </td><td valign="top" width="50%">
 
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 100%" />  
+<div align="right">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="right" style="width: 100%" />
+</div>  
 
 
 </td></tr></table>  
@@ -93,7 +95,6 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
   
 
 <br/>  
